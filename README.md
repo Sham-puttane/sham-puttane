@@ -84,11 +84,10 @@ I build **LLM-powered systems** that turn messy, real-world data into decision-r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sham-puttane&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sham-puttane&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
-<!-- Replace YOUR_USERNAME above with your GitHub username -->
 
 <hr/>
 
