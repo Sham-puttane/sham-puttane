@@ -80,13 +80,6 @@ I build **LLM-powered systems** that turn messy, real-world data into decision-r
 
 <hr/>
 
-<!-- ===================== STATS (OPTIONAL) ===================== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sham-puttane&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sham-puttane&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
 
 
 <hr/>
